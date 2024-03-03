@@ -16,4 +16,4 @@ const max3 = (cislo1, cislo2, cislo3) => {
     }
 }
 
-console.log(max3(45, 45, 28));
+console.log(max3(45, 15, 28));
