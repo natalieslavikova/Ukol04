@@ -10,9 +10,9 @@ const max3 = (cislo1, cislo2, cislo3) => {
 
     } else if (cislo3 > cislo1 && cislo3 > cislo2) {
         return cislo3;
-        
+
     } else {
-        return "Čísla jsou stejná nebo nesmyslná.";
+        return "Buď si zadal nesmysl nebo stejná čísla";
     }
 }
 
