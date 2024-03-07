@@ -16,3 +16,4 @@ const max3 = (cislo1, cislo2, cislo3) => {
 console.log(max3(45, 45, 28));
 console.log(max3(15, 15, 15));
 console.log(max3(150, 15, 1));
+console.log(max3(8, 17, 13));
